@@ -1,1 +1,1 @@
-# Open_Clash_Pubic
+# OpenClashPubic
